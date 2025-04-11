@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Automation22/E-commerceWebsite">
+        <classes>
+            <class name="CreateAnAccountTest"></class>
+            <class name="SignUPTest"></class>
+            <class name="ShoppingProcessTest"></class>
+
+        </classes>
+
+    </test></suite>
